@@ -6,10 +6,8 @@
 This is an initiation which is for freshers and any person who wishes to learn **_Backend Web Development_** with a roadmap, resources, practical experience, and guidance/mentorship. This is a part of **_#100DaysofWebDevelopment_**
 
 ## Mentor Details
-**Name** : _Shakir Farhan_ , Full-Stack Web Developer.\
-**Mobile Number** : 9391634115\
-**LinkedIn** : <a href="https://www.linkedin.com/in/shak1rfarhan/" target="_blank">LinkedIn</a>\
-**Email** : <a href="mailto:shakirfarhan123@gmail.com" target="_blank">Email</a>
+**Name** : Keerthi Nori\
+**LinkedIn** : <a href="https://www.linkedin.com/in/keerthinori" target="_blank">LinkedIn</a>\
 
 ---
 
@@ -35,6 +33,7 @@ Backend Roles are different and has no connection with Frontend Development. Yet
 ---
 
 ## Schedule & Resources
+### Beginning of Gold Level ###
 ### <u>*Day 1-10*</u>
 ***What is Internet*** - The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
 
@@ -62,7 +61,8 @@ Backend Roles are different and has no connection with Frontend Development. Yet
 <br>
 
 ***Learning basics of Programming Language***\
-Learning a language when you are starting with Backend Web Development helps your website to function along with databases, frameworks, web servers etc...
+Learning a language when you are starting with Backend Web Development helps your website to function along with databases, frameworks, web servers etc...\
+👉 Based on the language you pick, you will also choose the web framework that goes along with it.
 
 You can choose any of the languages below mentioned : 
 	1. ***Javascript*** ( *Preffered* - Because if you want to become a Full-stack Developer. You definetly need to learn Frontend Technologies that definetly includes Javascript . You can manage both client and server with single language.)
@@ -97,9 +97,7 @@ Learning a Language is not so easy and it's need practise and consistency. So ju
 	<a href="https://jschallenger.com">JSChallenger.com</a>\
 	<a href="https://W3Schools.com">W3 Schools</a>
 
----
-
-### <u>*Day 21-30*</u>
+ <br>
 
 ***Version Control (Git)*** - Git is a version control system that is used to track changes to files, especially when multiple people are working on the same project. It allows developers to work on different parts of a project simultaneously, and then merge their changes back together. Git stores this information in a data structure called a repository.
 
@@ -126,6 +124,29 @@ Learning a Language is not so easy and it's need practise and consistency. So ju
 <a href="https://www.youtube.com/watch?v=apGV9Kg7ics">Git & Github | Kunal Khushwaha</a>
 
 <br>
+
+ 
+
+---
+
+### <u>*Day 21-30*</u>
+***Learn Basics of DBMS*** - A Database Management System (DBMS) is software that helps you store, organize, and manage data. Instead of keeping data in scattered files, a DBMS lets you put everything in one place (a database) and makes it easy to add, update, search, and retrieve information whenever you need it.
+
+**Popular DBMS Systems :**
+
+- MySQL (Relational)
+- PostgreSQL (Relational)
+- MongoDB (NoSQL – Document-based)
+- Redis (NoSQL – Key-Value store)
+
+**Resources :** 
+<a href="https://youtu.be/HXV3zeQKqGY?si=qvkDktVl3RR9WPi0">MySQL Tutorial</a>\
+<a href="https://youtu.be/qw--VYLpxG4?si=RpBhnIY8yzzanMc2">PostgreSQL Tutorial</a>\
+<a href="https://youtu.be/ofme2o29ngU?si=NLvUH7wvEA7qCH_w">MongoDB Tutorial</a>
+
+<br>
+
+### Beginning of Platinum Level ###
 
 ***Learn Basics of Web Framework*** - Backend web frameworks are tools that provide a set of libraries and functions that make it easier to build and run web applications. They provide a structure for developing web applications and help to handle the underlying technical details so that you can focus on building the features of your application.
 
@@ -166,19 +187,6 @@ Similar to learning any language these frameworks add a extra flavour to these l
 
 <br>
 
-***Databases*** - A database is a collection of data that is organized so that it can be easily accessed, managed, and updated. It is a crucial component of many web applications, as it allows the application to store and retrieve data efficiently.
-
-***NOTE :*** Many different types of databases that you can use for a web application, including relational databases (such as MySQL and PostgreSQL) and non-relational databases (such as MongoDB and Cassandra). The choice of database will depend on the needs of your application and the type of data you are storing.
-
-Generally if you work in Javascript then we choose ***MERN*** ( MongoDB, Express, React.js, Node.js ) | ***MEAN*** ( MongoDB, Express, Angular, Nodejs ) | ***MEVN*** ( MongoDB, Express, Vue.js, Nodejs ) Stacks for developing Web Applications.
-
-**Resources :**
-
-<a href="https://www.youtube.com/watch?v=HXV3zeQKqGY">Learn SQL - Intellipath<a/>\
-<a href="https://www.youtube.com/watch?v=Cz3WcZLRaWc">MySQL Basics - Fireship</a>\
-<a href="https://www.youtube.com/watch?v=AA7i2GcTGwU">SQL Full Course - Simplilearn</a>\
-<a href="https://www.youtube.com/watch?v=oSIv-E60NiU">Learn MongoBD  - Codewithharry (Hindi)</a>\
-<a href="https://www.youtube.com/watch?v=lBBtq3Oawqw">MongoDB - Simplilearn</a>
 
 ---
 
@@ -210,3 +218,4 @@ Here you have some knowledge of tech skills needed for building full-stack web a
 This is just a drop in ocean there is much more to learn for becoming a full-stack developer.\
 This is definetly time taking process to learn these many and don't be in hurry learning quickly. Understand first then try to execute.\
 Have any doubts can reach us anytime.
+
