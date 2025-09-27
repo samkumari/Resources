@@ -6,7 +6,14 @@
 **_#50DaysOfFrontendWebDev_**
 This is an initiation which is for freshers and any person who wishes to learn **_Frontend Web Development_** with a roadmap, resources, practical experience, and guidance/mentorship. This is a part of **_#100DaysofWebDevelopment_**
 
+
 ## Mentor Details
+
+**Name** : _Varshita Posani_ , Frontend Web Developer.\
+**LinkedIn** : <a href="https://www.linkedin.com/in/varshita-posani-9a0807298/" target="_blank">LinkedIn</a>\
+**Email** : <a href="mailto:varshitaposani.05@gmail.com" target="_blank">Email</a>
+
+## Past Mentor Details
 **Name** : _Shakir Farhan_ , Full-Stack Web Developer.\
 **Mobile Number** : 9391634115\
 **LinkedIn** : <a href="https://www.linkedin.com/in/shak1rfarhan/" target="_blank">LinkedIn</a>\
@@ -288,5 +295,6 @@ Don't try to remember codes, styles, tags etc. There is no need of remembering t
 	<div><b>Backend Web Development Complete Roadmap : </b></div>
 	<a href="https://github.com/e-DAMCommunity/Resources/blob/main/BackEndDev.md">Backend Web Development RoadMap</a>
 </div>
+
 
 
