@@ -17,6 +17,9 @@ Whether you’re starting new or leveling up, this challenge ensures consistent 
  2. E-Mail: [sowmyakumari612@gmail.com](mailto:sowmyakumari612@gmail.com)
  3. LinkedIn: [Sowmya Kumari](https://www.linkedin.com/in/sowmya-kumari-264482295/)
 ### Mentor 2
+ 1. Name: **Zeba Fathima**
+ 2. E-Mail: [zebafathima882@gmail.com](mailto:zebafathima882@gmail.com)
+ 3. LinkedIn: [Zeba Fathima](https://www.linkedin.com/in/zeba-fathima/)
 
 ## Past Mentor Details:
 
