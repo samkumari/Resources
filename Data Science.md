@@ -11,8 +11,14 @@
 <ul>💎 Platinum</ul> 
 
 Whether you’re starting new or leveling up, this challenge ensures consistent growth with clear goals and support 🚀
-
 ## Mentor Details:
+### Mentor 1
+ 1. Name:  **Sowmya Kumari**
+ 2. E-Mail: [sowmyakumari612@gmail.com](mailto:sowmyakumari612@gmail.com)
+ 3. LinkedIn: [Sowmya Kumari](https://www.linkedin.com/in/sowmya-kumari-264482295/)
+### Mentor 2
+
+## Past Mentor Details:
 
  1. Name:  **Dusa Sai Krishna (Data Analyst)**
  2. E-Mail: [krishna@edam.tech](mailto:krishna@edam.tech)
