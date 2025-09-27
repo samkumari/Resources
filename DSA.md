@@ -1,5 +1,5 @@
-<h1 align="center">👋 Welcome to #100DaysOfDSA </h1>
-<h3 align="center">Data Structures & Algorithms Bootcamp</h3>
+# 👋 Welcome to #100DaysOfDSA
+### Data Structures & Algorithms Bootcamp
 
 ---
 
@@ -11,20 +11,25 @@ This is a 100-day bootcamp for freshers and anyone who wishes to master **Data S
 - Milestones with mini-projects  
 - Guidance & practice  
 
-> ⚡ Consistency beats intensity. Solve daily, practice daily, and track your progress.  
+> ⚡ Consistency beats intensity. Solve daily, practice daily, and track your progress.
+
+---
+
+## 🧑‍🏫 Mentor Details
+- **Name**: **Deepansh Umar**.   
+- **GitHub**: [Deepansh-Umar](https://github.com/Deepansh-Umar)  
+- **LinkedIn**: [Deepansh Umar](https://www.linkedin.com/in/deepansh-umar/)
 
 ---
 
 ## 📌 Structure
-We’ve divided the 100 days into **4 milestones**.  
-Each milestone concludes with **revision + mini-projects** to strengthen learning.  
-
+We’ve divided the 100 days into **4 milestones**:
 - **Milestone 1** → Arrays, Strings, Linked Lists  
 - **Milestone 2** → Stacks, Queues, Recursion & Trees  
 - **Milestone 3** → BST, Heaps, Graphs  
 - **Milestone 4** → Dynamic Programming, Advanced Topics, Final Projects  
 
-Additionally, there are **two assignments**:  
+Additional **assignments**:
 - **Mid-Course Assignment (Day 50)**  
 - **Final Assignment (Day 100)**  
 
@@ -45,8 +50,7 @@ For the **day-to-day schedule with resources and assignments**, check the offici
 - Sorting & Searching  
 - Linked Lists (SLL, DLL, Cycle Detection)  
 
-✅ **Milestone 1**:  
-Mini Project → *Array/Strings Utility Library*  
+✅ **Milestone 1**: *Array/Strings Utility Library*
 
 ---
 
@@ -56,8 +60,7 @@ Mini Project → *Array/Strings Utility Library*
 - Problem Solving (LeetCode practice)  
 - Binary Trees (Traversals, Depth, Height)  
 
-✅ **Milestone 2**:  
-Mini Project → *Expression Evaluator*  
+✅ **Milestone 2**: *Expression Evaluator*
 
 📘 **Mid-Course Assignment (Day 50)**: Solve 20 mixed DSA problems  
 🏆 **HackerRank Contest**: Winner receives a badge and shoutout from the **E-DAM Team**  
@@ -72,8 +75,7 @@ Mini Project → *Expression Evaluator*
 - Minimum Spanning Tree (Kruskal, Prim)  
 - Topological Sort & DSU  
 
-✅ **Milestone 3**:  
-Mini Project → *Dictionary using Trie*  
+✅ **Milestone 3**: *Dictionary using Trie*
 
 ---
 
@@ -85,12 +87,11 @@ Mini Project → *Dictionary using Trie*
 - Advanced Graph (Max Flow, Bridges, Articulation Points)  
 - Final Review + Mock Contest  
 
-✅ **Milestone 4**:  
-Mini Project → *Graph Traversal Visualizer*  
+✅ **Milestone 4**: *Graph Traversal Visualizer*  
 
 📘 **Final Assignment (Day 100)**: Solve 30 advanced DSA problems across all topics  
 🎯 **Final Milestone**: *Competitive Programming Toolkit & Journal*  
-🏆 **HackerRank Contest**: Winner receives a badge and shoutout from the **E-DAM Team**  
+🏆 **HackerRank Contest**: Winner receives a badge and shoutout from the **e-DAM IARE Team**  
 
 ---
 
