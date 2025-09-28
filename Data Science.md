@@ -253,16 +253,16 @@ Features:
 | 50 | Coding Practice | Power Bi-setup | Excel-1st video |
 | 51 | Coding Practice | Introduction to Power Bi | Excel-1st video |
 | 52 | Coding Practice | Connecting and Shaping Data | Excel-1st video |
-| 53 | Coding Practice | Connecting and Shaping Data | 2nd video |
-| 54 | Coding Practice | Connecting and Shaping Data | 3rd video |
-| 55 | Coding Practice | Connecting and Shaping Data | 4th video |
-| 56 | Coding Practice | Connecting and Shaping Data | 5th video |
-| 57 | Coding Practice | Creating Tables and Relations | 6th video  |
-| 58 | Coding Practice | Creating Tables and Relations | 7th video  |
-| 59 | Coding Practice | Creating Tables and Relations | 8th video  |
-| 60 | Coding Practice | Creating Tables and Relations | 9th video  |
-| 61 | Coding Practice | Creating Tables and Relations | 10th video |
-| 62 | Coding Practice | Creating Tables and Relations | 11th video |
+| 53 | Coding Practice | Connecting and Shaping Data | video |
+| 54 | Coding Practice | Creating Tables and Relations |  video  |
+| 55 |  Coding Practice | Creating Tables and Relations | video  |
+| 56 | Statistics |
+| 57 | Graphs | 
+| 58 | Data Analysis | 
+| 59 | Feature Engineering | 
+| 60 | Data Visualization | 
+| 61 | Mathematical Libraries | 
+| 62 | Machine Learning Libraries | 
 | | | LEVEL-III (Gold) | | |
 | 63-70 | Coding Practice | DAX | Videos in Intermediate Excel |
 | 70-75 | Coding Practice | Visualize | Videos in Intermediate Excel |
