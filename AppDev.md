@@ -8,9 +8,9 @@
 
 <h4>Mentor - 1</h4>
 
-- Name:
-- Email:
-- Linkedin:
+- Name: Jadav Gajanand
+- Email: j.gajanand1123@gmail.com
+- Linkedin: linkedin.com/in/jadav-gajanand-3aa946290
 
 <h4> Mentor - 2 </h4>
 
@@ -86,3 +86,4 @@ Dart / Flutter (Android & iOS) - Great for beginners, Scalable and Cross-platfor
 | Day 30 | Mini demo combining network + local storage |
 
 ## 🥉 Completed Level - 1 (Bronze Badge)
+
